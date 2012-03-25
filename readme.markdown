@@ -25,4 +25,4 @@ All 16 pieces of the puzzle are shown in one line.  The pieces are ordered left 
 
 Here is a sample solution:
 
-![Sample Solution](//github.com/JonahBraun/puzzle48/raw/master/piece_map.jpeg)
+![Sample Solution](//github.com/JonahBraun/puzzle48/raw/master/sample_solution.jpeg)
