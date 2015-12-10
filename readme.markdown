@@ -21,8 +21,8 @@ A solution line looks like:
 
 All 16 pieces of the puzzle are shown in one line.  The pieces are ordered left to right, top to bottom – so it begins with the top left and finishes with the bottom right.  Each piece is preceeded by it's id, followed by the four join shapes in clockwise order starting with the top.  The piece IDs can be mapped to the below image from the actual puzzle, with 1 at the top left and 16 at the bottom right.
 
-![Piece Map](//github.com/JonahBraun/puzzle48/raw/master/piece_map.jpeg)
+![Piece Map](https://raw.githubusercontent.com/JonahBraun/puzzle48/master/piece_map.jpeg)
 
 Here is a sample solution:
 
-![Sample Solution](//github.com/JonahBraun/puzzle48/raw/master/sample_solution.jpeg)
+![Sample Solution](https://raw.githubusercontent.com/JonahBraun/puzzle48/master/sample_solution.jpeg)
